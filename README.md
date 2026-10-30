@@ -1,6 +1,5 @@
-# Practica 3
 
 **Autor:** Mauro Jacobo
 
 ## Descripción
-Calculadora de consola desarrollada en Python que permite realizar operaciones aritméticas básicas (suma, resta, multiplicación y división) a partir de los datos introducidos por el usuario. El código se organiza en módulos separados para entradas, cálculos y salida, y el proyecto se ampliará en las siguientes prácticas, incluyendo su contenedorización con Docker.
+Aplicación de consola desarrollada en Python que simula una tienda online usando programación orientada a objetos. Permite registrar clientes y administradores, gestionar un catálogo de productos (normales, electrónicos y ropa), realizar pedidos con control de stock y consultar el histórico de pedidos de cada usuario. El proyecto se ampliará en las siguientes prácticas, incluyendo su contenedorización con Docker.
