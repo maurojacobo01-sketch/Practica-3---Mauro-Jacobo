@@ -57,4 +57,3 @@ Los identificadores (ID) cambian en cada ejecución porque se generan con uuid.
 
 ## Flujo de trabajo
 Se trabaja con ramas feature/ y Pull Requests hacia main.
-  Services/
